@@ -11,3 +11,8 @@ John the Ripper is a popular password cracking tool used to perform dictionary a
 5. [Dictionary Attack using RockYou](#dictionary-attack-using-rockyou)
 6. [Mask Attack](#mask-attack)
 7. [Clearing Cache](#clearing-cache)
+
+##  Disclaimer
+
+> This tool is for educational and authorized testing **only**.
+> Unauthorized use against systems without consent is **illegal** and unethical.
